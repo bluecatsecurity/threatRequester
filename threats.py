@@ -14,7 +14,7 @@ array=[]
 port = 465 # SSL
 smtpServer = "smtp.gmail.com"
 senderEmail = "bcs.sec.notification@gmail.com"
-receiverEmail = "octavioricci@gmail.com"
+receiverEmail = "receiveremail@gmail.com"
 
 
 def sendEmail2(array):
